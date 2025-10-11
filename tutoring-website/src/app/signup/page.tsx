@@ -1,17 +1,13 @@
-// app/page.tsx
+// app/signup/page.tsx
 "use client"
 
 import { useState, useEffect } from 'react'
 import { LanguageProvider } from '@/app/contexts/language-context'
 import Navbar from '@/app/components/Navbar'
-import Hero from '@/app/components/Hero'
-import Features from '@/app/components/features'
-import HowItWorks from '@/app/components/how-it-works'
-// import Testimonials from '@/app/components/testimonials'
-// import CTASection from '@/app/components/cta-section'
 import Footer from '@/app/components/Footer'
+import SignupForm from '@/app/components/signup-form'
 
-export default function Home() {
+export default function Signup() {
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
@@ -26,11 +22,11 @@ export default function Home() {
     <LanguageProvider>
       <div className="min-h-screen bg-gradient-to-br from-amber-50 to-amber-100 dark:from-gray-900 dark:to-amber-950 transition-colors duration-300">
         <Navbar />
-        <Hero />
-        <Features />
-        <HowItWorks />
-        {/* <Testimonials />
-        <CTASection /> */}
+        <div className="pt-32 pb-20 px-4 sm:px-6 lg:px-8">
+          <div className="max-w-2xl mx-auto">
+            <SignupForm />
+          </div>
+        </div>
         <Footer />
       </div>
     </LanguageProvider>

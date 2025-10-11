@@ -1,0 +1,247 @@
+
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "howItWorks": "How It Works",
+    "forTutors": "For Tutors",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "hero": {
+    "title": "Professional Tutoring Services",
+    "subtitle": "Door-to-door and online tutoring in English, Arabic, and Amharic",
+    "cta": "Get Started",
+    "secondary": "Learn More"
+  },
+  "features": {
+    "title": "Why Choose Us",
+    "doorToDoor": "Door-to-Door Service",
+    "doorToDoorDesc": "Professional tutors come to your location",
+    "online": "Online Sessions",
+    "onlineDesc": "Learn from anywhere with virtual classes",
+    "multilingual": "Multilingual Support",
+    "multilingualDesc": "Available in English, Arabic, and Amharic"
+  },
+  "about": {
+    "title": "About TutorConnect",
+    "mission": "Our Mission",
+    "missionText": "To make quality education accessible to every student, regardless of location or language, through innovative tutoring solutions.",
+    "vision": "Our Vision",
+    "visionText": "A world where every learner has access to personalized education and every educator can share their knowledge effectively.",
+    "values": "Our Values",
+    "valuesText": "Excellence, accessibility, innovation, and community. We're committed to transforming education through technology and human connection.",
+    "storyTitle": "Our Story & Values",
+    "storyText1": "TutorConnect was founded with a simple yet powerful vision: to bridge the gap between students seeking knowledge and tutors sharing expertise. We believe that learning should be personalized, accessible, and transformative.",
+    "storyText2": "Our platform brings together the convenience of modern technology with the personal touch of traditional tutoring. Whether it's door-to-door service for that personal connection or online sessions for ultimate flexibility, we've got you covered.",
+    "storyText3": "We support multiple languages because we believe education should transcend language barriers. Our tutors are not just teachers; they're mentors who inspire and empower.",
+    "teamTitle": "Meet Our Team",
+    "teamSubtitle": "Passionate educators, technologists, and innovators working together to transform tutoring"
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Getting started with TutorConnect is simple. Whether you're a student looking for help or a tutor ready to share knowledge, our platform makes the process seamless and efficient.",
+    "steps": {
+      "createAccount": "Create Account",
+      "createAccountDesc": "Sign up as a student or tutor in just 2 minutes",
+      "findMatch": "Find Match",
+      "findMatchDesc": "Browse tutors or students based on subjects, languages, and availability",
+      "schedule": "Schedule Session",
+      "scheduleDesc": "Choose between door-to-door or online sessions at your convenience",
+      "startLearning": "Start Learning",
+      "startLearningDesc": "Begin your educational journey with expert guidance",
+      "rateReview": "Rate & Review",
+      "rateReviewDesc": "Share your experience and help others make informed choices",
+      "trackProgress": "Track Progress",
+      "trackProgressDesc": "Monitor your learning journey and celebrate achievements"
+    },
+    "services": {
+      "title": "Choose Your Service Type",
+      "subtitle": "Select the tutoring format that works best for your learning style and schedule",
+      "doorToDoor": "Door-to-Door",
+      "doorToDoorDesc": "Personalized in-home tutoring sessions",
+      "online": "Online Sessions",
+      "onlineDesc": "Virtual tutoring from anywhere in the world",
+      "features": "Features",
+      "benefits": "Benefits for Both Services"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Get answers to common questions about our tutoring services",
+      "q1": "How do I choose between door-to-door and online tutoring?",
+      "a1": "Consider your learning preferences, schedule flexibility, and location. Door-to-door offers personal interaction, while online provides more flexibility and access to global tutors.",
+      "q2": "What subjects and languages do you support?",
+      "a2": "We support all major academic subjects and three languages: English, Arabic, and Amharic. Our tutors cover everything from mathematics to language arts.",
+      "q3": "How are tutors verified and qualified?",
+      "a3": "All tutors undergo a rigorous verification process including background checks, qualification verification, and teaching demonstration assessments.",
+      "q4": "Can I switch between service types?",
+      "a4": "Yes, you can easily switch between door-to-door and online sessions based on your current needs and schedule.",
+      "q5": "What if I'm not satisfied with a tutoring session?",
+      "a5": "We offer a satisfaction guarantee. If you're not happy with a session, we'll provide a free replacement session or full refund.",
+      "q6": "How do payments work?",
+      "a6": "Payments are processed securely through our platform. You can pay per session or purchase packages for better rates. All major payment methods are accepted."
+    }
+  },
+  "tutors": {
+    "title": "Become a Tutor",
+    "subtitle": "Join our platform of expert educators and share your knowledge with students worldwide. Enjoy flexible scheduling, competitive earnings, and the satisfaction of making a difference.",
+    "benefits": {
+      "title": "Why Teach With Us",
+      "flexibility": "Complete Flexibility",
+      "flexibilityDesc": "Set your own schedule and work from anywhere",
+      "earnings": "Competitive Earnings",
+      "earningsDesc": "Earn up to 90% of session fees with our tiered system",
+      "support": "Full Support",
+      "supportDesc": "We handle marketing, payments, and student matching",
+      "community": "Growing Community",
+      "communityDesc": "Join 500+ tutors serving 2000+ students globally"
+    },
+    "requirements": {
+      "title": "Tutor Requirements",
+      "education": "Education Background",
+      "educationDesc": "Degree or equivalent experience in your subject",
+      "experience": "Teaching Experience",
+      "experienceDesc": "Previous tutoring or teaching experience preferred",
+      "verification": "Background Verification",
+      "verificationDesc": "Must pass our comprehensive background check",
+      "demo": "Demo Session",
+      "demoDesc": "Successfully complete a sample teaching session"
+    },
+    "application": {
+      "title": "Application Process",
+      "step1": "Complete Profile",
+      "step1Desc": "Share your expertise and qualifications",
+      "step2": "Verification",
+      "step2Desc": "Background check and demo session",
+      "step3": "Start Teaching",
+      "step3Desc": "Connect with students and earn"
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the perfect plan for your learning needs. All plans include access to our expert tutors in multiple languages with both door-to-door and online options.",
+    "plans": {
+      "student": "FOR STUDENTS",
+      "tutor": "FOR TUTORS",
+      "basic": "Basic",
+      "standard": "Standard",
+      "premium": "Premium",
+      "basicDesc": "Perfect for occasional learning",
+      "standardDesc": "Great for regular learning",
+      "premiumDesc": "Best for intensive learning",
+      "tutorBasic": "Tutor Basic",
+      "tutorPro": "Tutor Pro",
+      "tutorElite": "Tutor Elite",
+      "tutorBasicDesc": "Start your tutoring journey",
+      "tutorProDesc": "Maximize your earnings",
+      "tutorEliteDesc": "Top-tier tutoring experience"
+    },
+    "features": {
+      "session": "1-hour tutoring sessions",
+      "subjects": "All subjects available",
+      "languages": "English, Arabic, Amharic",
+      "serviceTypes": "Door-to-door or online",
+      "support": "Basic support",
+      "package": "8 one-hour sessions",
+      "preferred": "Preferred tutor matching",
+      "recordings": "Session recordings",
+      "priority": "Priority scheduling",
+      "unlimited": "Unlimited sessions",
+      "premiumTutors": "Premium tutors only",
+      "tracking": "Progress tracking",
+      "examPrep": "Exam preparation"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have questions about our tutoring services? We're here to help! Reach out to us and we'll get back to you within 24 hours.",
+    "form": {
+      "title": "Send us a Message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "type": "Inquiry Type",
+      "subject": "Subject",
+      "message": "Message",
+      "general": "General Inquiry",
+      "student": "Student Registration",
+      "tutor": "Tutor Application",
+      "support": "Technical Support",
+      "billing": "Billing Question",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message Sent!",
+      "successText": "Thank you for contacting us. We'll get back to you within 24 hours."
+    },
+    "info": {
+      "email": "Email Us",
+      "phone": "Call Us",
+      "visit": "Visit Us",
+      "address": "123 Education Street, Learning City"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your TutorConnect account",
+      "email": "Email Address",
+      "password": "Password",
+      "remember": "Remember me",
+      "forgot": "Forgot password?",
+      "signin": "Sign In",
+      "signing": "Signing In...",
+      "noAccount": "Don't have an account?",
+      "signup": "Sign up now",
+      "demo": "Demo Credentials"
+    },
+    "signup": {
+      "title": "Create Account",
+      "student": "Sign up as Student",
+      "tutor": "Sign up as Tutor",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "phone": "Phone Number",
+      "confirmPassword": "Confirm Password",
+      "terms": "I agree to the Terms of Service and Privacy Policy",
+      "createAccount": "Create Account",
+      "creating": "Creating Account...",
+      "existingAccount": "Already have an account?",
+      "signin": "Sign in here",
+      "tutorNote": "Tutor Application Note",
+      "tutorNoteText": "After registration, you'll need to complete your tutor profile, submit qualifications, and schedule a demo session before you can start accepting students.",
+      "success": "Registration Successful!",
+      "successText": "Your account has been created successfully. Redirecting to login..."
+    },
+    "validation": {
+      "firstName": "First name is required",
+      "lastName": "Last name is required",
+      "email": "Email is required",
+      "emailInvalid": "Email is invalid",
+      "phone": "Phone number is required",
+      "password": "Password is required",
+      "passwordLength": "Password must be at least 8 characters",
+      "confirmPassword": "Please confirm your password",
+      "passwordMatch": "Passwords do not match"
+    }
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "applyNow": "Apply Now",
+    "choosePlan": "Choose Plan",
+    "contactSupport": "Contact Support",
+    "watchDemo": "Watch Demo",
+    "downloadGuide": "Download Guide",
+    "verified": "Verified Expert Tutors",
+    "scheduling": "24/7 Scheduling",
+    "secure": "Safe & Secure",
+    "quality": "Quality Guaranteed",
+    "stats": {
+      "tutors": "Expert Tutors",
+      "students": "Happy Students",
+      "success": "Success Rate",
+      "languages": "Languages"
+    }
+  }
+}
