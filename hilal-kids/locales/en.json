@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact Us",
+    "login": "Login",
+    "signup": "Sign Up",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Hilal Kids - Islamic Education & Academic Excellence",
+    "subtitle": "Comprehensive learning platform for Quran teaching and academic tutoring, accessible to all children including those with visual impairments",
+    "cta": "Start Learning Today"
+  },
+  "features": {
+    "quran": "Quran Teaching",
+    "academic": "Academic Tutoring",
+    "online": "Online Worldwide",
+    "doorToDoor": "Door-to-Door Service",
+    "inclusive": "Fully Accessible for Visually Impaired"
+  }
+}
