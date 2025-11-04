@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
-import Header from '../components/Header';
-import Footer from '../components/Footer';
+import Header from '../../components/Header';
+import Footer from '../../components/Footer';
 import Link from 'next/link';
 
 // Import translations
-import en from '../locales/en.json';
-import am from '../locales/am.json';
-import ar from '../locales/ar.json';
+import en from '../../locales/en.json';
+import am from '../../locales/am.json';
+import ar from '../../locales/ar.json';
 
 const translations: { [key: string]: any } = { en, am, ar };
 
