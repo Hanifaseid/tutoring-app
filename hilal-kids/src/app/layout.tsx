@@ -1,23 +1,14 @@
-// src/app/layout.tsx
-import type { Metadata } from 'next'
-import { ReactNode } from 'react'
-import './../globals.css'
+import './globals.css'
 
-export const metadata: Metadata = {
-  title: 'Tutoring App',
-  description: 'Hilal Kids Tutoring App',
+export const metadata = {
+  title: 'Hilal Kids',
+  description: 'Next.js App',
 }
 
-export default function RootLayout({
-  children,
-}: {
-  children: ReactNode
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body>
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   )
 }
