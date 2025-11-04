@@ -1,16 +1,22 @@
-// app/layout.tsx
-import { ReactNode } from 'react';
+// src/app/layout.tsx
+import type { Metadata } from 'next'
+import './../globals.css'
 
-interface RootLayoutProps {
-  children: ReactNode;
+export const metadata: Metadata = {
+  title: 'Tutoring App',
+  description: 'Hilal Kids Tutoring App',
 }
 
-export default function RootLayout({ children }: RootLayoutProps) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
   return (
     <html lang="en">
       <body>
         {children}
       </body>
     </html>
-  );
+  )
 }
